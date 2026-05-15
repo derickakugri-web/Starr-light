@@ -1,5 +1,4 @@
-# index.html 
-Trading site
+
 <h2 onclick="checkAdmin()" style="cursor: pointer;">STΛR LIGHT</h2>
 
 <div id="admin-panel" style="display: none; margin-top: 20px;">
