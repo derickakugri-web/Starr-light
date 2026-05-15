@@ -1,4 +1,4 @@
-# Index.html 
+# index.html 
 Trading site
 <h2 onclick="checkAdmin()" style="cursor: pointer;">STΛR LIGHT</h2>
 
